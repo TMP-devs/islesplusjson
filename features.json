@@ -1,3 +1,3 @@
 {
-  "killed": []
+  "killed": ["inventory_search", "inventory_full"]
 }
