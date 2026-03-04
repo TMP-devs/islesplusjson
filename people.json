@@ -1,7 +1,12 @@
 {
-   "owners":[
-      "chrrisk",
-      "scrolls"
-   ],
-   "devallowed": ["xdoggeh","creatorwodash","lividaiton","selfsufficiency"]
+  "owners": [
+    "chrrisk",
+    "scrolls"
+  ],
+  "devallowed": [
+    "xdoggeh",
+    "creatorwodash",
+    "lividaiton",
+    "selfsufficiency"
+  ]
 }
