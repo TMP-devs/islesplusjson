@@ -1,0 +1,23 @@
+name: Sign people.json
+on:
+  push:
+    paths:
+      - people.json
+jobs:
+  sign:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Write private key
+        run: echo "${{ secrets.PEOPLE_SIGN_KEY }}" > private.pem
+      - name: Sign
+        run: |
+          openssl dgst -sha256 -sign private.pem -out sig.bin people.json
+          openssl base64 -in sig.bin -out people.json.sig -A
+      - name: Commit signature
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add people.json.sig
+          git diff --staged --quiet || git commit -m "Re-sign people.json"
+          git push
