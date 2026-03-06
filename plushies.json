@@ -163,9 +163,9 @@
   },
   {
     "plushie_num": 18,
-    "x_real": -240,
-    "y_real": 72,
-    "z_real": -9,
+    "x_real": null,
+    "y_real": null,
+    "z_real": null,
     "x_entrance": null,
     "y_entrance": null,
     "z_entrance": null
