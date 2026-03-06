@@ -15,8 +15,8 @@
       "player_finder": false,
       "rank_calculator": false,
       "button_finder": false,
-      "qte_tracker": true
+      "qte_tracker": false
     },
   "motd": "V1.0.0 Join our discord! https://discord.gg/HXSb6n8rYS",
-  "latest_version": "1.0.1"
+  "latest_version": "1.0.0"
 }
