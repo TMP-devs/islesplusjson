@@ -163,45 +163,45 @@
   },
   {
     "plushie_num": 18,
-    "x_real": null,
-    "y_real": null,
-    "z_real": null,
+    "x_real": 312,
+    "y_real": 138,
+    "z_real": 1008,
     "x_entrance": null,
     "y_entrance": null,
     "z_entrance": null
   },
   {
     "plushie_num": 19,
-    "x_real": null,
-    "y_real": null,
-    "z_real": null,
+    "x_real": 517,
+    "y_real": 111,
+    "z_real": 852,
     "x_entrance": null,
     "y_entrance": null,
     "z_entrance": null
   },
   {
     "plushie_num": 20,
-    "x_real": null,
-    "y_real": null,
-    "z_real": null,
+    "x_real": 659,
+    "y_real": 86,
+    "z_real": 968,
     "x_entrance": null,
     "y_entrance": null,
     "z_entrance": null
   },
   {
     "plushie_num": 21,
-    "x_real": null,
-    "y_real": null,
-    "z_real": null,
+    "x_real": 507,
+    "y_real": 100,
+    "z_real": 1145,
     "x_entrance": null,
     "y_entrance": null,
     "z_entrance": null
   },
   {
     "plushie_num": 22,
-    "x_real": null,
-    "y_real": null,
-    "z_real": null,
+    "x_real": 470,
+    "y_real": 51,
+    "z_real": 1396,
     "x_entrance": null,
     "y_entrance": null,
     "z_entrance": null
@@ -253,9 +253,9 @@
   },
   {
     "plushie_num": 28,
-    "x_real": null,
-    "y_real": null,
-    "z_real": null,
+    "x_real": 477,
+    "y_real": 15,
+    "z_real": 1615,
     "x_entrance": null,
     "y_entrance": null,
     "z_entrance": null
@@ -289,9 +289,9 @@
   },
   {
     "plushie_num": 32,
-    "x_real": null,
-    "y_real": null,
-    "z_real": null,
+    "x_real": 536,
+    "y_real": 54,
+    "z_real": 1363,
     "x_entrance": null,
     "y_entrance": null,
     "z_entrance": null
@@ -310,6 +310,42 @@
     "x_real": null,
     "y_real": null,
     "z_real": null,
+    "x_entrance": null,
+    "y_entrance": null,
+    "z_entrance": null
+  },
+  {
+    "plushie_num": 35,
+    "x_real": 520,
+    "y_real": 171,
+    "z_real": 1020,
+    "x_entrance": null,
+    "y_entrance": null,
+    "z_entrance": null
+  },
+  {
+    "plushie_num": 36,
+    "x_real": 518,
+    "y_real": 171,
+    "z_real": 1018,
+    "x_entrance": null,
+    "y_entrance": null,
+    "z_entrance": null
+  },
+  {
+    "plushie_num": 38,
+    "x_real": 543,
+    "y_real": 53,
+    "z_real": 1225,
+    "x_entrance": null,
+    "y_entrance": null,
+    "z_entrance": null
+  },
+  {
+    "plushie_num": 46,
+    "x_real": 483,
+    "y_real": 36,
+    "z_real": 1323,
     "x_entrance": null,
     "y_entrance": null,
     "z_entrance": null
