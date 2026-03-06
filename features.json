@@ -1,5 +1,5 @@
 {
-  "killed": [],
+  "killed": [harvest_timer],
   "motd": "V1.0.0 Join our discord! https://discord.gg/HXSb6n8rYS",
   "latest_version": "1.0.0"
 }
