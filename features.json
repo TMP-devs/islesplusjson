@@ -13,10 +13,10 @@
     "chest_finder": false,
     "mob_finder": false,
     "player_finder": false,
-    "rank_calculator": true,
+    "rank_calculator": false,
     "button_finder": false,
     "qte_tracker": false
   },
   "motd": "Rift score calculator is currently broken, fix on the way. Discord-> https://discord.gg/UKnEWBDJ7w",
-  "latest_version": "1.0.0"
+  "latest_version": "1.0.1"
 }
