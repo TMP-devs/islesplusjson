@@ -15,8 +15,11 @@
     "player_finder": false,
     "rank_calculator": false,
     "button_finder": false,
-    "qte_tracker": false
+    "qte_tracker": false,
+    "boss_tracker": false,
+    "ground_items_notifier": false,
+    "auto_party": false
   },
-  "motd": "Rift score calculator is fixed on 1.0.1. Discord-> https://discord.gg/UKnEWBDJ7w",
+  "motd": "1.1.0 coming very soon!. Discord-> https://discord.gg/UKnEWBDJ7w",
   "latest_version": "1.0.1"
 }
