@@ -466,5 +466,23 @@
     "x_entrance": null,
     "y_entrance": null,
     "z_entrance": null
+  },
+  {
+    "plushie_num": 56,
+    "x_real": 69.5,
+    "y_real": 81.0,
+    "z_real": 477.5,
+    "x_entrance": null,
+    "y_entrance": null,
+    "z_entrance": null
+  },
+  {
+    "plushie_num": 57,
+    "x_real": 42.5,
+    "y_real": 91.0,
+    "z_real": 431.5,
+    "x_entrance": null,
+    "y_entrance": null,
+    "z_entrance": null
   }
 ]
