@@ -16,6 +16,11 @@
     "rank_calculator": true,
     "button_finder": false,
     "qte_tracker": false,
+    "qte_tracker_luck": false,
+    "qte_tracker_exp": false,
+    "qte_tracker_chance": false,
+    "qte_tracker_coins": false,
+    "qte_tracker_tickskip": false,
     "boss_tracker": false,
     "ground_items_notifier": false,
     "auto_party": false
