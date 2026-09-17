@@ -19,11 +19,12 @@
     "qte_tracker_luck": false,
     "qte_tracker_exp": false,
     "qte_tracker_chance": false,
-    "qte_tracker_coins": true,
-    "qte_tracker_tickskip": false,
+    "qte_tracker_coins": false,
+    "qte_tracker_tickskip": true,
     "boss_tracker": false,
     "ground_items_notifier": false,
-    "auto_party": false
+    "auto_party": false,
+    "waystone_finder": false
   },
   "motd": "New version coming soon for isles 1.0!. Discord-> https://discord.gg/UKnEWBDJ7w",
   "latest_version": "1.1.0"
