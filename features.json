@@ -13,13 +13,13 @@
     "chest_finder": false,
     "mob_finder": false,
     "player_finder": false,
-    "rank_calculator": false,
+    "rank_calculator": true,
     "button_finder": false,
     "qte_tracker": false,
     "boss_tracker": false,
     "ground_items_notifier": false,
     "auto_party": false
   },
-  "motd": "1.1.0 now released!. Discord-> https://discord.gg/UKnEWBDJ7w",
+  "motd": "New version coming soon for isles 1.0!. Discord-> https://discord.gg/UKnEWBDJ7w",
   "latest_version": "1.1.0"
 }
