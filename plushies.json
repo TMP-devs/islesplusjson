@@ -10,9 +10,9 @@
   },
   {
     "plushie_num": 1,
-    "x_real": -712,
+    "x_real": -88.5,
     "y_real": 138,
-    "z_real": -1904,
+    "z_real": -237.5,
     "x_entrance": null,
     "y_entrance": null,
     "z_entrance": null
@@ -127,9 +127,9 @@
   },
   {
     "plushie_num": 14,
-    "x_real": null,
-    "y_real": null,
-    "z_real": null,
+    "x_real": -399.5,
+    "y_real": 99,
+    "z_real": 572.5,
     "x_entrance": null,
     "y_entrance": null,
     "z_entrance": null
@@ -298,9 +298,9 @@
   },
   {
     "plushie_num": 33,
-    "x_real": null,
-    "y_real": null,
-    "z_real": null,
+    "x_real": -398.5,
+    "y_real": 81,
+    "z_real": 571.5,
     "x_entrance": null,
     "y_entrance": null,
     "z_entrance": null
