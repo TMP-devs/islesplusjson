@@ -5,7 +5,7 @@
     "node_depleted_ping": false,
     "regen_mode": false,
     "drop_notify": false,
-    "inventory_full": false,
+    "inventory_full": true,
     "inventory_search": false,
     "chat_filter": false,
     "plushie_finder": false,
@@ -27,6 +27,6 @@
     "waystone_finder": false,
     "plushie_reset_button": false
   },
-  "motd": "Prerelease for isles 1.0 is out on modrinth!. Discord-> https://discord.gg/UKnEWBDJ7w",
-  "latest_version": "1.2.0"
+  "motd": "1.2.1 is out!. Discord-> https://discord.gg/UKnEWBDJ7w",
+  "latest_version": "1.2.1"
 }
