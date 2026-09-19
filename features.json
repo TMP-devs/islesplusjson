@@ -24,7 +24,8 @@
     "boss_tracker": false,
     "ground_items_notifier": false,
     "auto_party": false,
-    "waystone_finder": false
+    "waystone_finder": false,
+    "plushie_reset_button": false
   },
   "motd": "Prerelease for isles 1.0 is out on modrinth!. Discord-> https://discord.gg/UKnEWBDJ7w",
   "latest_version": "1.2.0"
