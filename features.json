@@ -5,7 +5,7 @@
     "node_depleted_ping": false,
     "regen_mode": false,
     "drop_notify": false,
-    "inventory_full": true,
+    "inventory_full": false,
     "inventory_search": false,
     "chat_filter": false,
     "plushie_finder": false,
@@ -25,7 +25,7 @@
     "ground_items_notifier": false,
     "auto_party": false,
     "waystone_finder": false,
-    "plushie_reset_button": false
+    "plushie_reset_button": true
   },
   "motd": "1.2.1 is out! NEW UI!. Discord-> https://discord.gg/UKnEWBDJ7w",
   "latest_version": "1.2.1"
