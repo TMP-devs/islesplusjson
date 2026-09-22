@@ -1,0 +1,46 @@
+{
+  "killed": {
+    "harvest_timer": false,
+    "node_radius": false,
+    "node_depleted_ping": false,
+    "regen_mode": false,
+    "drop_notify": false,
+    "inventory_full": false,
+    "inventory_search": false,
+    "chat_filter": false,
+    "plushie_finder": false,
+    "vending_machine_finder": false,
+    "chest_finder": false,
+    "mob_finder": false,
+    "player_finder": false,
+    "rank_calculator": false,
+    "button_finder": false,
+    "qte_tracker": false,
+    "qte_tracker_luck": false,
+    "qte_tracker_exp": false,
+    "qte_tracker_chance": false,
+    "qte_tracker_coins": false,
+    "qte_tracker_tickskip": false,
+    "boss_tracker": false,
+    "ground_items_notifier": false,
+    "auto_party": false,
+    "waystone_finder": false,
+    "plushie_reset_button": true,
+    "example_all_versions": true,
+    "example_exact_version": "1.0.2",
+    "example_below_version": "<1.0.4",
+    "example_range": ">=1.0.2 <1.0.5",
+    "example_list": [
+      "1.0.2",
+      "1.0.3"
+    ]
+  },
+  "motd": "1.0.0 is out! NEW UI! Discord-> https://discord.gg/UKnEWBDJ7w",
+  "motd_v2": {
+    "text": "1.0.1 is out! NEW UI! Discord",
+    "link": "https://discord.gg/UKnEWBDJ7w",
+    "link_text": "click here",
+    "color": "#4fb0a0"
+  },
+  "latest_version": "1.0.1"
+}
