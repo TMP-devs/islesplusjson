@@ -25,7 +25,7 @@
     "ground_items_notifier": false,
     "auto_party": false,
     "waystone_finder": false,
-    "plushie_reset_button": true
+    "plushie_reset_button": false
   },
   "motd": "1.0.0 is out! NEW UI! Discord-> https://discord.gg/UKnEWBDJ7w",
   "motd_v2": {
