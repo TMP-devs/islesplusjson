@@ -25,7 +25,7 @@
     "ground_items_notifier": false,
     "auto_party": false,
     "waystone_finder": false,
-    "plushie_reset_button": true,
+    "plushie_reset_button": false,
     "example_all_versions": true,
     "example_exact_version": "1.0.2",
     "example_below_version": "<1.0.4",
