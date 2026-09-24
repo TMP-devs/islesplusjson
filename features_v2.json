@@ -17,8 +17,7 @@
   ],
 
   "features": {
-    "harvest_timer":          { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "Auto-enables Nerd Mode via /settings", "versions": { "1.0.0": { "tooltip": "Auto-enables Nerd Mode via /settings" }, "1.0.1": { "tooltip": "testing 1.0.1 tooltip" } } },    
-    "node_radius":            { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "versions": {} },
+    "harvest_timer":          { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "Auto-enables Nerd Mode via /settings", "versions": {} },    "node_radius":            { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "versions": {} },
     "node_depleted_ping":     { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "versions": {} },
     "regen_mode":             { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "versions": {} },
     "drop_notify":            { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "versions": {} },
@@ -28,11 +27,11 @@
     "plushie_finder":         { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "Open every /plushies page once to sync", "versions": {} },
     "plushie_reset_button":   { "disabled": true,  "disabled_reason": "", "killed": false, "tooltip": "", "versions": {} },
     "vending_machine_finder": { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "versions": {} },
-    "chest_finder":           { "disabled": false, "disabled_reason": "", "killed": true, "tooltip": "", "versions": {} },
+    "chest_finder":           { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "versions": {} },
     "mob_finder":             { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "versions": {} },
     "player_finder":          { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "versions": {} },
     "rank_calculator":        { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "versions": {} },
-    "button_finder":          { "disabled": false, "disabled_reason": "", "killed": true, "tooltip": "Shaders may break this feature", "versions": {} },
+    "button_finder":          { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "Shaders may break this feature", "versions": {} },
     "waystone_finder":        { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "versions": {} },
     "qte_tracker":            { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "Shaders may affect line rendering", "versions": {} },
     "qte_tracker_luck":       { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "versions": {} },
@@ -49,8 +48,7 @@
     "super_jump":             { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "We don't recommend binding this to your jump or off hand key: you would lose the ability to jump or dash normally and could only super dash.", "versions": {} },
     "mod_only_sounds":        { "tooltip": "" },
     "slot_locking":           { "tooltip": "" },
-    "keybinds":               { "tooltip": "Testing tooltip v2" }
-  },
+    "keybinds":               { "tooltip": "" }  },
 
   "motd": "1.0.0 is out! NEW UI! Discord-> https://discord.gg/UKnEWBDJ7w",
   "motd_v2": {
