@@ -17,7 +17,7 @@
   ],
 
   "features": {
-    "harvest_timer":          { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "Auto-enables Nerd Mode via /settings", "versions": {} },
+    "harvest_timer":          { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "Auto-enables Nerd Mode via /settings", "versions": { "1.0.0": { "tooltip": "Auto-enables Nerd Mode via /settings" }, "1.0.1": { "tooltip": "testing 1.0.1 tooltip" } } },    
     "node_radius":            { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "versions": {} },
     "node_depleted_ping":     { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "versions": {} },
     "regen_mode":             { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "versions": {} },
