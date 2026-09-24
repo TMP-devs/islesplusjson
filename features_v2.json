@@ -49,7 +49,7 @@
     "super_jump":             { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "We don't recommend binding this to your jump or off hand key: you would lose the ability to jump or dash normally and could only super dash.", "versions": {} },
     "mod_only_sounds":        { "tooltip": "" },
     "slot_locking":           { "tooltip": "" },
-    "keybinds":               { "tooltip": "Testing tooltip" }
+    "keybinds":               { "tooltip": "Testing tooltip v2" }
   },
 
   "motd": "1.0.0 is out! NEW UI! Discord-> https://discord.gg/UKnEWBDJ7w",
