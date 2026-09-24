@@ -17,7 +17,8 @@
   ],
 
   "features": {
-    "harvest_timer":          { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "Auto-enables Nerd Mode via /settings", "versions": {} },    "node_radius":            { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "versions": {} },
+    "harvest_timer":          { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "Auto-enables Nerd Mode via /settings", "versions": {} },
+    "node_radius":            { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "versions": {} },
     "node_depleted_ping":     { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "versions": {} },
     "regen_mode":             { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "versions": {} },
     "drop_notify":            { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "versions": {} },
@@ -39,7 +40,7 @@
     "qte_tracker_chance":     { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "versions": {} },
     "qte_tracker_coins":      { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "versions": {} },
     "qte_tracker_tickskip":   { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "versions": {} },
-    "boss_tracker":           { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "versions": { "1.0.1": { "disabled": true, "disabled_reason": "Feature being reworked for 1.0.2" } } },
+    "boss_tracker":           { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "versions": {} },
     "ground_items_notifier":  { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "versions": {} },
     "auto_party":             { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "versions": {} },
     "quick_actions":          { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "versions": {} },
