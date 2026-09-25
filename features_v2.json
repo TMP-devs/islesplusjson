@@ -26,7 +26,7 @@
     "inventory_search":       { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "versions": {} },
     "chat_filter":            { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "versions": {} },
     "plushie_finder":         { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "Open every /plushies page once to sync", "versions": {} },
-    "plushie_reset_button":   { "disabled": true,  "disabled_reason": "", "killed": false, "tooltip": "", "versions": {} },
+    "plushie_reset_button":   { "disabled": false,  "disabled_reason": "", "killed": false, "tooltip": "", "versions": {} },
     "vending_machine_finder": { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "versions": {} },
     "chest_finder":           { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "versions": {} },
     "mob_finder":             { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "versions": {} },
