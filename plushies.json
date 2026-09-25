@@ -346,9 +346,9 @@
     "x_real": 543,
     "y_real": 53,
     "z_real": 1225,
-    "x_entrance": null,
-    "y_entrance": null,
-    "z_entrance": null
+    "x_entrance": 543,
+    "y_entrance": 60,
+    "z_entrance": 1223
   },
   {
     "plushie_num": 39,
