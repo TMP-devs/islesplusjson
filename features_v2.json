@@ -18,14 +18,7 @@
       "harvestable_<name> (whisperleaf, plain_fiber, coarse_fiber, apple, mushroom, kelp, tanglewood_vine, driftstone, cobweb) switches one harvestable off; harvestable_highlighter the whole feature.",
       "issued and features_v2.json.sig are filled in by the Sign features_v2.json GitHub Action on every push. Do not edit them by hand. 1.0.2+ builds only trust this file when the signature checks out.",
       "A feature that is missing here works normally with its built-in tooltip and beta tag.",
-      "announcement    one chat message to every mod user, shown once each, within about a minute of the push (1.0.2+).",
-      "                id        any text, but NEW for every announcement: a player who has seen an id never sees it again.",
-      "                          Good habit: the date plus a word, e.g. 2026-09-25-rift-off.",
-      "                text      the message. Blank id or blank text = nothing is sent (that is the resting state).",
-      "                link      optional URL, shown at the end as an arrow plus underlined link text.",
-      "                link_text optional, default 'click here'.",
-      "                color     optional #rrggbb for the whole line. Empty = Isles+ oxblood.",
-      "                To stop it, blank id and text again. Players who already saw it are not affected."
+      "Announcements are no longer set here: use /announce in the Isles+ Discord (1.0.2+)."
     ],
 
     "features": {
@@ -86,13 +79,6 @@
       "link": "https://discord.gg/UKnEWBDJ7w",
       "link_text": "click here",
       "color": "#4fb0a0"
-    },
-    "announcement": {
-      "id": "2026-09-25-test-2",
-      "text": "WE ARE TESTING",
-      "link": "",
-      "link_text": "",
-      "color": ""
     },
     "latest_version": "1.0.1"
   }
