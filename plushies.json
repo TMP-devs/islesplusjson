@@ -265,9 +265,9 @@
     "x_real": 493,
     "y_real": -18,
     "z_real": 1674,
-    "x_entrance": null,
-    "y_entrance": null,
-    "z_entrance": null
+    "x_entrance": 496,
+    "y_entrance": -19,
+    "z_entrance": 1669
   },
   {
     "plushie_num": 30,
@@ -382,18 +382,18 @@
     "x_real": 516,
     "y_real": -4,
     "z_real": 1716,
-    "x_entrance": null,
-    "y_entrance": null,
-    "z_entrance": null
+    "x_entrance": 518,
+    "y_entrance": -7,
+    "z_entrance": 1708
   },
   {
     "plushie_num": 43,
     "x_real": 518,
     "y_real": -2,
     "z_real": 1804,
-    "x_entrance": null,
-    "y_entrance": null,
-    "z_entrance": null
+    "x_entrance": 545,
+    "y_entrance": -1,
+    "z_entrance": 1803
   },
   {
     "plushie_num": 44,
