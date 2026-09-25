@@ -29,10 +29,15 @@ jobs:
           openssl dgst -sha256 -sign private.pem -out sig.bin canonical.json
           openssl base64 -in sig.bin -out features_v2.json.sig -A
           rm -f private.pem sig.bin canonical.json
+      - name: Tell clients to fetch again
+        # clients only re-read features_v2.json when refresh.json's "v" changes; bumping it here,
+        # after the signature exists, means nobody fetches the new file before it is signed
+        run: |
+          python3 -c "import json; p='refresh.json'; d=json.load(open(p)); d['v']=int(d.get('v',0))+1; open(p,'w').write(json.dumps(d))"
       - name: Commit issued time and signature
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add features_v2.json features_v2.json.sig
+          git add features_v2.json features_v2.json.sig refresh.json
           git diff --staged --quiet || git commit -m "Sign features_v2.json"
           git push
