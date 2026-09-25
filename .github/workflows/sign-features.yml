@@ -1,0 +1,38 @@
+name: Sign features_v2.json
+on:
+  push:
+    paths:
+      - features_v2.json
+  workflow_dispatch:
+jobs:
+  sign:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Stamp issued time
+        run: |
+          NOW=$(date -u +%Y-%m-%dT%H:%M:%SZ)
+          if grep -q '"issued"' features_v2.json; then
+            sed -i -E "s/\"issued\"[[:space:]]*:[[:space:]]*\"[^\"]*\"/\"issued\": \"$NOW\"/" features_v2.json
+          else
+            sed -i "0,/{/s//{\n  \"issued\": \"$NOW\",/" features_v2.json
+          fi
+          python3 -c "import json; json.load(open('features_v2.json'))"
+      - name: Write private key
+        run: echo "${{ secrets.PEOPLE_SIGN_KEY }}" > private.pem
+      - name: Sign
+        # the mod checks the text without a byte order mark or carriage returns: sign exactly that
+        run: |
+          sed '1s/^\xEF\xBB\xBF//' features_v2.json | tr -d '\r' > canonical.json
+          openssl dgst -sha256 -sign private.pem -out sig.bin canonical.json
+          openssl base64 -in sig.bin -out features_v2.json.sig -A
+          rm -f private.pem sig.bin canonical.json
+      - name: Commit issued time and signature
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add features_v2.json features_v2.json.sig
+          git diff --staged --quiet || git commit -m "Sign features_v2.json"
+          git push
