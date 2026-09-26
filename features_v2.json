@@ -49,7 +49,7 @@
       "boss_tracker":                { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "beta": false, "versions": {} },
       "ground_items_notifier":       { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "beta": false, "versions": {} },
       "auto_party":                  { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "beta": false, "versions": {} },
-      "quick_actions":               { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "beta": true, "versions": {} },
+      "quick_actions":               { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "versions": {}, "beta": false },
       "roll_percent":                { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "Rolls are hidden under worn cosmetics and in the auction house", "beta": false, "versions": {} },
       "item_age":                    { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "beta": false, "versions": {} },
       "super_jump":                  { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "We don't recommend binding this to your jump or off hand key: you would lose the ability to jump or dash normally and could only super dash.", "versions": {} },
