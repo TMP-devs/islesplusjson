@@ -1,4 +1,4 @@
 {
-  "payload": "{\"id\":\"2026-09-26T07-00-59-9b23-clear\",\"issued\":\"2026-09-26T07:00:59Z\",\"cleared\":true,\"text\":\"\",\"link\":\"\",\"link_text\":\"\",\"color\":\"\"}",
-  "sig": "eEQnWQYJ0pkiuQtplQmtUTyQYQrv2+NSGl5pULGuAFZplncjyF4QHm9/KQqmG0DFlFz43Ksf3ToriAVWqrPBLuq0JODIA/Qzro6WDSy00mpwbHzBcTQ6XFII//hsyt6RFD1bTXAXfgb6EqgLDkZmgZrUohtiGt3THp0YTY/5GtUOMVGR9wAiMTpXHY9S0raVWanUy+yAUGG9QPNWQ8kFGIUII4QXVJdES61kgUmApx0OUK/bQ49cilif2komwZUvcd7P6BpyaVJN4dYCfB0SSamIlw5Oxr4KxDWx8MFQmgOlf+dS7MdE+lbLz/2uJsS3NQ2ZyrdUQM6PNPqh/YJVnw=="
+  "payload": "{\"id\":\"2026-09-26T07-17-29-09d9\",\"issued\":\"2026-09-26T07:17:29Z\",\"text\":\"Welcome to Isles+ 1.0.2! Please leave feedback in our\",\"link\":\"https://discord.gg/UKnEWBDJ7w\",\"link_text\":\"discord!\",\"color\":\"#01386a\"}",
+  "sig": "bD12ezx9cVJKAT2coJ3NBAQxL6uW+m+zWb/pMoxvjJ4NosDHfqC9gVs53dgHNrjbNABM8jTXcN0nlhFBsDwS0DTGhbhy/ftBnVesFj8fyZEaAKnutw3kOdNNWLWheo4K8/SGQr30KI4Esq3Qc6+OWoDo6B4Y1ydz4DXrohmCrX2yXW2LB/VAATRytYxG7RNKVCjSbre9uRYzWl95CPevfXr1ZOVQBirw2Gh4xzOmlxiRThmTTncThkrh3v1MVF7Kjh1RV4CRp2irNsiy7cRGnYfz0TOEYrVTNFUghLDflYW3ze3a+ngWhkqjkRCarz1qVkXPbrZb+kZdORM8IZHQnA=="
 }
