@@ -1,4 +1,4 @@
 {
-  "payload": "{\"id\":\"2026-09-26T07-47-53-c16b-clear\",\"issued\":\"2026-09-26T07:47:53Z\",\"cleared\":true,\"text\":\"\",\"link\":\"\",\"link_text\":\"\",\"color\":\"\"}",
-  "sig": "EpBYmPcfSWK4N3/zJ2AzreaTqMqrHKwBFAgCWa7SXs3oeEiQlxhkCEnueCljhD0LzRvlEl+5hiwPN8kCMxPHbW9+mdfBrwEmnBn17s0ew7PWU3hXfJrfYiocbHQVWfHrFDqFSfdZwz0A6hE0a5nqp6KJaO/keTEl6ZyARNpwUrsfgcfIN71RnH1hlIKZdEpq26b2cGeK45z/yL67lKzl9QI4QiBaBZ+kiBVr2ChFqyEWLI4KYJLhKPR/pHnISb8C8m3kW/+hJ93AAL6DIn5hGf2O1ZjJqNnrqDetYnfsBSuBE6Lq4p4gOC/cmBApt3PQVCKhjQZ6eapiyOmDqOqBcg=="
+  "payload": "{\"id\":\"2026-09-26T20-38-24-6142\",\"issued\":\"2026-09-26T20:38:24Z\",\"text\":\"Isles+ removed the Rift finders. Any version that still has them is NOT from us and may be unsafe. Not from Modrinth? Check your jar's hash. Unsure? DM Scrolls or chrrisk on Discord.\",\"link\":\"https://sha256-islesplus.chrrisk.workers.dev/\",\"link_text\":\"#48b322\",\"color\":\"#e05341\"}",
+  "sig": "Qgr89ughGsWGe1fT8TnDBGC5Q+ZxI6r2tELKo70n9NvDejSTovdWWucPlLcpxY15jqVeegLh7SYFj6FvK2ixr5Ajqtu4mhWYRayeD9LMKt/PI6SPHB0p8l6t5zmODJixdSK9UIa9Ke8ksM2fHdeCATVQF7z9CxteN9nUlN716RWI/BHsU4GSe1QK3u4n4fie9YpGai69mUAPMYG+glYY+7XcP0k87oTv8RjniXzXCaMVXGH/Z88KwtHbz+O1y5OBK8yOlcYgTtR2m7o3kN9RQIfOkYv1ivj/CyTJ0j9+wPnQMhwQPJ6HFexKDU4xFDukZb1AT2RKoki9ohWFojl6yA=="
 }
