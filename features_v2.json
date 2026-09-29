@@ -19,7 +19,8 @@
       "harvestable_<name> (whisperleaf, plain_fiber, coarse_fiber, apple, mushroom, kelp, tanglewood_vine, driftstone, cobweb) switches one harvestable off; harvestable_highlighter the whole feature.",
       "issued and features_v2.json.sig are filled in by the Sign features_v2.json GitHub Action on every push. Do not edit them by hand. 1.0.2+ builds only trust this file when the signature checks out.",
       "A feature that is missing here works normally with its built-in tooltip and beta tag.",
-      "Announcements are no longer set here: use /announce in the Isles+ Discord (1.0.2+)."
+      "boss_share is the live timers shared between players (inside Boss Timers, no card of its own): disabled or killed disconnects every player from the boss hub and Boss Timers carries on with each player's own timers.",
+    "Announcements are no longer set here: use /announce in the Isles+ Discord (1.0.2+)."
     ],
 
     "features": {
@@ -47,6 +48,7 @@
       "qte_tracker_coins":           { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "beta": false, "versions": {} },
       "qte_tracker_tickskip":        { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "beta": true, "versions": {} },
       "boss_tracker":                { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "beta": false, "versions": {} },
+      "boss_share":                  { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "beta": false, "versions": {} },
       "ground_items_notifier":       { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "beta": false, "versions": {} },
       "auto_party":                  { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "beta": false, "versions": {} },
       "quick_actions":               { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "versions": {}, "beta": false },
