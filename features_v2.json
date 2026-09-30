@@ -50,7 +50,7 @@
       "qte_tracker_coins":           { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "beta": false, "versions": {} },
       "qte_tracker_tickskip":        { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "beta": true, "versions": {} },
       "boss_tracker":                { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "beta": false, "versions": {} },
-      "boss_share":                  { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "beta": false, "versions": {} },
+      "boss_share":                  { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "Sharing sends the boss timers you see to other players on your server and gets theirs back. The more people share, the more timers stay live.", "beta": false, "versions": {} },
       "boss_share_all_servers":      { "disabled": true, "disabled_reason": "", "killed": false, "tooltip": "", "beta": false, "versions": {} },
       "item_browser":                { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "Data from isleswiki.net", "beta": true, "versions": {} },
       "stock":                       { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "Open your backpack and flick through every storage page once to count them", "beta": true, "versions": {} },
