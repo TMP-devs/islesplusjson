@@ -50,6 +50,7 @@
       "qte_tracker_tickskip":        { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "beta": true, "versions": {} },
       "boss_tracker":                { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "beta": false, "versions": {} },
       "boss_share":                  { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "beta": false, "versions": {} },
+      "boss_share_all_servers":      { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "beta": false, "versions": {} },
       "item_browser":                { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "Data from isleswiki.net", "beta": true, "versions": {} },
       "ground_items_notifier":       { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "beta": false, "versions": {} },
       "auto_party":                  { "disabled": false, "disabled_reason": "", "killed": false, "tooltip": "", "beta": false, "versions": {} },
